@@ -13,5 +13,5 @@ while integer != 1:
     count += 1
 
 print()
-print(f"Sequance had {count} total steps.")
+print(f"Sequence had {count} total steps.")
 print("\nProgram ending.")
